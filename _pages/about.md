@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: > #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
   Department of Science and Technology Studies, Cornell University<br /><br />
