@@ -28,8 +28,18 @@
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
-        <!-- Title -->
+
+        <!-- old Title -->
+        <!-- <div class="title">{{entry.title}}</div> -->
+        <!-- new Title: with hyperlink by url or doi -->
+        {%- if entry.url -%}
+        <a href="{{entry.url}}">{{entry.title}}</a>
+        {%- elsif entry.doi -%}
+        <a href="https://doi.org/{{entry.doi}}">{{entry.title}}</a>
+        {%- else -%}
         <div class="title">{{entry.title}}</div>
+        {%- endif -%}
+
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
