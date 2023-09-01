@@ -26,6 +26,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Greetings :) 你好<br />
 
-My name is Yue Zhao (赵玥 in simplified Chinese). I am a Ph.D. student at the Department of Science and Technology Studies at Cornell University, working at the intersection of the history of information technology and history of the body in Modern China. Before coming to Cornell, I did my Master's in Media, Culture, and Communication at NYU.<br />
+My name is Yue Zhao (赵玥 in simplified Chinese). I am a Ph.D. Candidate at the Department of Science and Technology Studies at Cornell University, working at the intersection of the history of information technology and history of the body in Modern China. Before coming to Cornell, I did my Master's in Media, Culture, and Communication at NYU.<br />
 
 ​In my spare time, I enjoy painting, jazz, and sci-fi movies. I also take pictures and make podcasts.<br />
